@@ -1,0 +1,26 @@
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+li,
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blanchedalmond;
+}
+
+.menu-recipes {
+    padding-top: 10px; padding-bottom: 10px;
+}
+
+.menu-recipes li {
+    padding-top: 10px; padding-bottom: 10px;
+}
